@@ -1,0 +1,4 @@
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.AssemblyInfo.cs
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.csproj.CoreCompileInputs.cache
