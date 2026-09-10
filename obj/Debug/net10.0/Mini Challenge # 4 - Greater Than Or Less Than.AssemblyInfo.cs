@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Challenge # 4 - Greater Than Or Less Than")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7b94d1521453786e012259f6cf44fb6d88ef42f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Challenge # 4 - Greater Than Or Less Than")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Challenge # 4 - Greater Than Or Less Than")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

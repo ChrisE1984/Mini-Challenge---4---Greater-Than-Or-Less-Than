@@ -2,3 +2,14 @@ C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\o
 C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.AssemblyInfoInputs.cache
 C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.AssemblyInfo.cs
 C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.sourcelink.json
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.exe
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.deps.json
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.runtimeconfig.json
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.pdb
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\refint\Mini Challenge # 4 - Greater Than Or Less Than.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.pdb
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.genruntimeconfig.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\ref\Mini Challenge # 4 - Greater Than Or Less Than.dll
