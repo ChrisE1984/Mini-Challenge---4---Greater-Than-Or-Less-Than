@@ -2,8 +2,8 @@
 //9-10-26
 //Mini Challenge 4 - Greater Than or Less Than
 //Created a program that prompts the user for 2 number inputs then tells the user if the numbers are greater, less than, or equal to each other.
-//Peer Review:
-//Review:
+//Peer Review: Valery Lot
+//Review: I like that you used the equality operator as one of the conditions. Great usage of a lot of comments to show thought process.
 
 Console.Clear();
 
